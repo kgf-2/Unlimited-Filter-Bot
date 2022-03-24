@@ -2,8 +2,9 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+ I'M IRA 🙋
+I'm unlimited filter bot
+Myde by Akshay Chand :)
 
 See <i>/help</i> for commands and more details.</b>
 """
