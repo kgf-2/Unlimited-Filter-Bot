@@ -4,7 +4,7 @@ class Script(object):
 
  I'M IRA 🙋
 I'm unlimited filter bot
-Myde by Akshay Chand :)
+Myde by Akshay Chand 🕵️
 
 See <i>/help</i> for commands and more details.</b>
 """
