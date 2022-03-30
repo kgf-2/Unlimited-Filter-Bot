@@ -14,14 +14,14 @@ See <i>/help</i> for commands and more details.</b>
 <i>Add me as admin in your group and start filtering :)</i>
 
 
-<b>Basic Commands;</b>
+🔰<b>Basic Commands;</b>🔰
 
 /start - Check if I'm alive!
 /help - Command help
 /about - Something about me!
 
 
-<b>Filter Commands;</b>
+🔰<b>Filter Commands;</b>🔰
 
 <code>☞/add name reply</code>  -  Add filter for name
 
@@ -32,7 +32,7 @@ See <i>/help</i> for commands and more details.</b>
 <code>☞/viewfilters</code>  -  List all filters in chat
 
 
-<b>Connection Commands;</b>
+🔰<b>Connection Commands;</b>🔰
 
 <code>☞/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
 <code>☞/connect</code> in groups.
@@ -40,7 +40,7 @@ See <i>/help</i> for commands and more details.</b>
 <code>☞/connections</code>  -  Manage your connections.
 
 
-<b>Extras;</b>
+🔰<b>Extras;</b>🔰
 
 ☞/status  -  Shows current status of your bot (Auth User Only)
 
@@ -49,7 +49,7 @@ See <i>/help</i> for commands and more details.</b>
 <code>☞/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @Akshaymh17</b>
+🔰<b>© @Akshaymh17</b>🔰
 """
 
 
